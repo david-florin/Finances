@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\Finances\Finances\obj\Debug\Finances.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Finances\Finances\obj\Debug\Spending_App2.Main.resources
+C:\Users\David\source\repos\Finances\Finances\obj\Debug\Finances.Properties.Resources.resources
+C:\Users\David\source\repos\Finances\Finances\obj\Debug\Finances.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Finances\Finances\obj\Debug\Finances.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Finances\Finances\bin\Debug\Finances.exe.config
+C:\Users\David\source\repos\Finances\Finances\bin\Debug\Finances.exe
+C:\Users\David\source\repos\Finances\Finances\bin\Debug\Finances.pdb
+C:\Users\David\source\repos\Finances\Finances\obj\Debug\Finances.exe
+C:\Users\David\source\repos\Finances\Finances\obj\Debug\Finances.pdb
